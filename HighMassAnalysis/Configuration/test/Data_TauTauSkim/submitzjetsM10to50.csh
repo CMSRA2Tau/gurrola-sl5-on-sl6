@@ -1,0 +1,10 @@
+crab -submit 1-500 -c DYJetsToLL_M-10To50
+crab -submit 501-1000 -c DYJetsToLL_M-10To50
+crab -submit 1001-1500 -c DYJetsToLL_M-10To50
+crab -submit 1501-2000 -c DYJetsToLL_M-10To50
+crab -submit 2001-2500 -c DYJetsToLL_M-10To50
+crab -submit 2501-3000 -c DYJetsToLL_M-10To50
+crab -submit 3001-3500 -c DYJetsToLL_M-10To50
+crab -submit 3501-4000 -c DYJetsToLL_M-10To50
+crab -submit 4001-4500 -c DYJetsToLL_M-10To50
+crab -submit 4501-5000 -c DYJetsToLL_M-10To50

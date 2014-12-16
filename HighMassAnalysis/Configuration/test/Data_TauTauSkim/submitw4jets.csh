@@ -1,0 +1,10 @@
+crab -submit 1-500 -c W4JetsToLNu
+crab -submit 501-1000 -c W4JetsToLNu
+crab -submit 1001-1500 -c W4JetsToLNu
+crab -submit 1501-2000 -c W4JetsToLNu
+crab -submit 2001-2500 -c W4JetsToLNu
+crab -submit 2501-3000 -c W4JetsToLNu
+crab -submit 3001-3500 -c W4JetsToLNu
+crab -submit 3501-4000 -c W4JetsToLNu
+crab -submit 4001-4500 -c W4JetsToLNu
+crab -submit 4501-5000 -c W4JetsToLNu

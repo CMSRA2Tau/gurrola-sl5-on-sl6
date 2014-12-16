@@ -1,0 +1,21 @@
+140322_224123: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -status -c 2012C
+140322_224215: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -getoutput -c 2012C
+140322_224243: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -getoutput -c 2012C
+140322_224403: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -getoutput -c 2012C
+140322_225944: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -status -c 2012C
+140325_101612: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -status -c 2012C
+140325_101819: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -getoutput -c 2012C
+140325_102337: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -status -c 2012C
+140325_134356: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -create -cfg crab_cut.cfg
+140325_140309: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -submit 1-500 -c 2012C
+140325_141325: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -submit 501-1000 -c 2012C
+140325_142401: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c 2012C
+140325_143359: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c 2012C
+140325_144405: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c 2012C
+140325_145355: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c 2012C
+140325_150331: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c 2012C
+140325_151300: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c 2012C
+140325_155628: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -status -c 2012C
+140325_164942: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -status -c 2012C
+140325_165040: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -getoutput -c 2012C
+140325_165058: /uscmst1/prod/grid/CRAB_2_10_4/python/crab.py -status -c 2012C

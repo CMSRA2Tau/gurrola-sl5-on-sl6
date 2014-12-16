@@ -1,0 +1,10 @@
+#crab -submit 501-1000 -c 2012C
+#crab -submit 1001-1500 -c 2012C
+#crab -submit 1501-2000 -c 2012C
+#crab -submit 2001-2500 -c 2012C
+#crab -submit 2501-3000 -c 2012C
+crab -submit 3001-3500 -c 2012C
+crab -submit 3501-4000 -c 2012C
+crab -submit 4001-4500 -c 2012C
+crab -submit 4501-5000 -c 2012C
+crab -submit 5001-5500 -c 2012C
