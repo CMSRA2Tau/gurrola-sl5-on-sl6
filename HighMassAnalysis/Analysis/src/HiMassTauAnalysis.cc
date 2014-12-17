@@ -35,7 +35,7 @@ HiMassTauAnalysis::HiMassTauAnalysis(const ParameterSet& iConfig) :
   scanPars(iConfig.getParameter<std::vector<std::string> >("ScanParameters"))
 {
 
-  BOOST_FOREACH(const std::string& par, scanPars)
+  //BOOST_FOREACH(const std::string& par, scanPars)
   //-----Generator level Inputs 
   _DoMSUGRApoint = iConfig.getParameter<bool>("DoMSUGRApoint");
   _GenParticleSource = iConfig.getUntrackedParameter<InputTag>("GenParticleSource");
